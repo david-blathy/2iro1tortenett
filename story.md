@@ -31,3 +31,5 @@
 # Amikor odaért elkezdett fura hangokat hallani az igazgatóiból és benézett a kulcslyukon.
 
 #Amit látott teljesen ledöbbentette, mert az igazgató egy ideiglenes ágyon ült az irodában.
+
+#Az igazgató észrevette a zajt és hirtelen az ajtó felé fordult.
