@@ -11,3 +11,5 @@
 # Sziget Balázs nem fogadta el a segítséget és csak tagadta a feltételezéseket.
 
 # Azért kezdett furán viselkedni mert a második év eleje körül egy érdekes dologra jött rá az igazgatoról.
+
+# Arra jött rá hogy az igazgató titokban a suliban alszik mivel nincsen háza.
