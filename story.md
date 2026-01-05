@@ -29,3 +29,5 @@
 # Körbe Nézett az összes tanteremben, hátha valamelyikbe beköltozött a esténként, de egyikbe se találta meg, ezért elindult az igazgatói felé.
 
 # Amikor odaért elkezdett fura hangokat hallani az igazgatóiból és benézett a kulcslyukon.
+
+#Amit látott teljesen ledöbbentette, mert az igazgató egy ideiglenes ágyon ült az irodában.
