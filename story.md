@@ -23,3 +23,5 @@
 # Délután négykor végzett az óráival a raktárban bujkált 2-3 órát amíg el nem hagyták az iskolát.
 
 # 7 órát ütött az óra, és úgy volt vele hogy mindenki már bizotsan elhagyta az iskolat, kivéve az aki bent nem akarna maradni szándékosan.
+
+# Elhagyta a raktárat és elkezdett keresgélni az iskola területén.
