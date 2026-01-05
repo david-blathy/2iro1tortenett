@@ -19,3 +19,5 @@
 # Miután rájött erre az információra elkezdett utána keresni a dolgoknak hogy biztos hogy igaz-e.
 
 # Egy nap úgy döntött hogy a tanitási órák után bent marad a suliban, megfigyelni az igazságot.
+
+# Délután négykor végzett az óráival a raktárban bujkált 2-3 órát amíg el nem hagyták az iskolát.
