@@ -7,3 +7,5 @@
 # Diákok észre veszik a furcsa tevékenységeit a tanár úrnak és elkezdtek szólni a többi tanároknak 
 
 # A tanárok elkezdték kérdezgetni Balázs-t hogy mi a baja, esetleg tudnak-e segíteni.
+
+# Sziget Balázs nem fogadta el a segítséget és csak tagadta a feltételezéseket.
