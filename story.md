@@ -37,3 +37,5 @@
 # Szigeti Balázs megijedt és gyorsan elbújt, nehogy észrevegyék.
 
 # Másnap egész nap ezen gondolkodott, és nem tudta eldönteni, elmondja-e valakinek az igazságot
+
+# Végül úgy döntött, hogy titokban tartja a dolgot, mert megértette az igazgató helyzetét.
