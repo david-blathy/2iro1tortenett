@@ -25,3 +25,5 @@
 # 7 órát ütött az óra, és úgy volt vele hogy mindenki már bizotsan elhagyta az iskolat, kivéve az aki bent nem akarna maradni szándékosan.
 
 # Elhagyta a raktárat és elkezdett keresgélni az iskola területén.
+
+# Körbe Nézett az összes tanteremben, hátha valamelyikbe beköltozött a esténként, de egyikbe se találta meg, ezért elindult az igazgatói felé.
