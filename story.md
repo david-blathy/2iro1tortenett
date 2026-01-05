@@ -13,3 +13,5 @@
 # Azért kezdett furán viselkedni mert a második év eleje körül egy érdekes dologra jött rá az igazgatoról.
 
 # Arra jött rá hogy az igazgató titokban a suliban alszik mivel nincsen háza.
+
+# Szigeti Balázs nem tudta hogy mit kezdjen ezzel az információval.
