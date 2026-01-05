@@ -15,3 +15,5 @@
 # Arra jött rá hogy az igazgató titokban a suliban alszik mivel nincsen háza.
 
 # Szigeti Balázs nem tudta hogy mit kezdjen ezzel az információval.
+
+# Miután rájött erre az információra elkezdett utána keresni a dolgoknak hogy biztos hogy igaz-e.
